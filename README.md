@@ -9,6 +9,9 @@ smcmf是一个有前后端基础的程序员使用的一个CMF系统，后端使
 [后端](https://github.com/smashdog/smcmf_php)
 
 [前端](https://github.com/smashdog/smcmf_html)
+
+[DB](https://github.com/smashdog/smcmf_sql)
+
 > 文档地址
 
 [https://www.kancloud.cn/smashdog/smcmf/790563](https://www.kancloud.cn/smashdog/smcmf/790563)
