@@ -1,3 +1,6 @@
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
+<a href="https://github.com/996icu/996.ICU/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Anti%20996-blue.svg" /></a>
+
 > 这是什么个东西 ？
 
 smcmf是一个有前后端基础的程序员使用的一个CMF系统，后端使用了php(thinkphp5.1)、上传采用腾讯云的cos、前端使用了vue+iview，数据库使用了mysql，采用前后分离的方式进行的开发。
