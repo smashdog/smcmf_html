@@ -19,4 +19,4 @@ smcmf是一个有前后端基础的程序员使用的一个CMF系统，后端使
 
 如果您觉得好用的话动动手指支持一下，谢谢。
 <div style="margin: 0 auto;width:100%;"><img src="https://biila.com/alipay.jpg" width="200"><br>支付宝</div>
-<div style="margin: 0 auto;width:100%;"><img src="https://biila.com/weixin.jpg" width="200"><br>微信</div>
+<div style="margin: 0 auto;width:100%;"><img src="https://biila.com/weixinpay.jpg.jpg" width="200"><br>微信</div>
